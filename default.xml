@@ -800,4 +800,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add all Ankp repos -->
+  <include name="snippets/ankp.xml" />
+
 </manifest>
